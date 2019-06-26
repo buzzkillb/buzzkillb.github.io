@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Tinkering with cryptocurrency wallets.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Admin On  
+- [Denarius](https://denarius.io)  
+- [Ethergem](https://egem.io)  
 
 ### Contact me
 
