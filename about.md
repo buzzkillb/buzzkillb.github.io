@@ -14,4 +14,4 @@ Admin On
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nothing@yet.com](mailto:email@domain.com)
