@@ -18,4 +18,5 @@ Examples
 
 Example what the Denarius QT looks like running in Ubuntu 19.04
 
-![denarius-qt-docker-ubuntu-disco-dingo.png]({{site.baseurl}}/_posts/denarius-qt-docker-ubuntu-disco-dingo.png)
+![denarius-qt-docker-ubuntu-disco-dingo.png]({{site.baseurl}}/images/denarius-qt-docker-ubuntu-disco-dingo.png)
+
