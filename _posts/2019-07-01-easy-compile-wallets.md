@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Compile Wallets easily to Spec Mine
-date: {}
+date: 2019-07-01T00:00:00.000Z
 published: true
 ---
 The original idea to learn to use docker was to compile and run a wallet deamon very easily. Then it became wow this is so easy why not run this for more than just staking [Denarius](https://denarius.io).  
