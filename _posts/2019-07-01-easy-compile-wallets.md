@@ -12,8 +12,8 @@ Why would someone want to do this? Well if you have the Dockerfile setup for a f
 
 So now using a few templates I can compile a wallet from source cleanly inside of its own docker container. This is extremely powerful and why I was spending so much time seeing how this works.
 
-Examples
-[https://github.com/buzzkillb/denariusQTdocker](https://github.com/buzzkillb/denariusQTdocker)
+Examples  
+[https://github.com/buzzkillb/denariusQTdocker](https://github.com/buzzkillb/denariusQTdocker)  
 [https://github.com/buzzkillb/voltaQTdocker](https://github.com/buzzkillb/voltaQTdocker)
 
 Example what the Denarius QT looks like running in Ubuntu 19.04
