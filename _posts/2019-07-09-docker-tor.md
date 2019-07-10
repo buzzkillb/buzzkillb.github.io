@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Docker TOR and a Bunch of Containers
 
